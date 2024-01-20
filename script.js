@@ -1,6 +1,6 @@
-alert(
-  "this is not protfolio web site only project and only response in laptops and pc"
-);
+// alert(
+//   "this is not protfolio web site only project and only response in laptops and pc"
+// );
 
 const scroll = new LocomotiveScroll({
   el: document.querySelector("#main"),
